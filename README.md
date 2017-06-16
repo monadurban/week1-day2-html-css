@@ -1,2 +1,2 @@
-# week1-assignment
-Week 1 assignment to learn basic GitHub skills
+# week1-day2-html-css
+Working on class assignment week 1, day 2
