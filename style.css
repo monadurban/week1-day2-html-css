@@ -1,0 +1,30 @@
+<!-- BEGIN CSS -->
+<style>
+
+	.main{
+		background-color: #ffffff;
+	}
+
+
+	.header {
+		background-color: #333333;
+		margin-top: 0px;
+		width: 100%;
+		font-color:  #eee;
+		font-style: "Georgia",Times New Roman, Times, Serif;
+		font-size: 28px;
+	}
+	
+	h1 {
+		font color:  #333
+		font-size: 28px;
+	}
+
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	
+		
+</style>
+<!-- END CSS -->
